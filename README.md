@@ -61,11 +61,11 @@ execute : AIHACK/MaskRCNN/samples/alert.ipynb and run it
 ## 2. Text Generation
 ### Libraries : 
 PIL(PILLOW), numpy, pandas, math, csv
-### execute : 
+### Execute : 
 AIHACK/Mask_RCNN/samples/text_generation.py
 *********************************************************
 ## 3. Text to audio
 ### Libraries : 
 gTTS, pandas
-### execute : 
+### Execute : 
 AIHACK/Mask_RCNN/samples/txt_to_audo.py
