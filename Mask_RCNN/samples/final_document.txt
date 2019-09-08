@@ -1,0 +1,19 @@
+Hello!! Welcome to NVIDIA AI Hackathon demo of team 7. You have the following objects around you.
+There is a person at a distance of 428 pixel units and at an angle of 28 degrees to the left of you.
+There is a person at a distance of 493 pixel units and at an angle of 31 degrees to the right of you.
+There is a person at a distance of 400 pixel units and at an angle of 47 degrees to the right of you.
+There is a traffic light at a distance of 474 pixel units and at an angle of 56 degrees to the right of you.
+There is a person at a distance of 355 pixel units and at an angle of 72 degrees to the left of you.
+There is a car at a distance of 341 pixel units and at an angle of 89 degrees to the right of you.
+There is a traffic light at a distance of 455 pixel units and at an angle of 72 degrees to the left of you.
+There is a car at a distance of 307 pixel units and at an angle of 81 degrees to the right of you.
+There is a person at a distance of 352 pixel units and at an angle of 75 degrees to the left of you.
+There is a car at a distance of 358 pixel units and at an angle of 84 degrees to the left of you.
+There is a person at a distance of 351 pixel units and at an angle of 76 degrees to the left of you.
+There is a refrigerator at a distance of 415 pixel units and at an angle of 49 degrees to the left of you.
+There is a car at a distance of 435 pixel units and at an angle of 55 degrees to the left of you.
+There is a person at a distance of 357 pixel units and at an angle of 71 degrees to the right of you.
+There is a person at a distance of 420 pixel units and at an angle of 44 degrees to the right of you.
+There is a car at a distance of 354 pixel units and at an angle of 84 degrees to the right of you.
+There is a traffic light at a distance of 456 pixel units and at an angle of 74 degrees to the left of you.
+Thank you! Have a safe day.
