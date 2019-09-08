@@ -59,9 +59,9 @@ Step 6 -
 execute : AIHACK/MaskRCNN/samples/alert.ipynb and run it 
 ********************************************************
 ## 2. Text Generation
-Libraries : PIL(PILLOW), numpy, pandas, math, csv
+Libraries : PIL(PILLOW), numpy, pandas, math, csv \n
 execute : AIHACK/Mask_RCNN/samples/text_generation.py
 *********************************************************
 ## 3. Text to audio
-Libraries : gTTS, pandas
+Libraries : gTTS, pandas \n
 execute : AIHACK/Mask_RCNN/samples/txt_to_audo.py
