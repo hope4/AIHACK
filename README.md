@@ -69,3 +69,7 @@ AIHACK/Mask_RCNN/samples/text_generation.py
 gTTS, pandas
 ### Execute : 
 AIHACK/Mask_RCNN/samples/txt_to_audo.py
+
+# Presentation slides
+## Note : Please open the link using google slides
+## https://docs.google.com/presentation/d/1ih8Lhgavf_SE0VOSX9ljyuOjOiXutvm8NzSqencEnV0/edit?usp=sharing
