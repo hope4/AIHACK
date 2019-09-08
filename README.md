@@ -1,6 +1,6 @@
 # AIHACK
 
-Modules
+## Modules
 
 1. Instance segmentation
 2. Text generation
@@ -11,9 +11,9 @@ Modules
 3. Text to audio conversion
 
 ************************************************
-Instructions
+## Instructions
 ************************************************
-1. Instance segementation
+## 1. Instance segementation
 
 Step 1: create a conda virtual environment with python 3.6
 Step 2: install the dependencies
@@ -58,10 +58,10 @@ place the file in the Mask_RCNN directory
 Step 6 -
 execute : AIHACK/MaskRCNN/samples/alert.ipynb and run it 
 ********************************************************
-2. Text Generation
+## 2. Text Generation
 Libraries : PIL(PILLOW), numpy, pandas, math, csv
 execute : AIHACK/Mask_RCNN/samples/text_generation.py
 *********************************************************
-3. Text to audio
+## 3. Text to audio
 Libraries : gTTS, pandas
 execute : AIHACK/Mask_RCNN/samples/txt_to_audo.py
